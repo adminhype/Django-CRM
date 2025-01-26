@@ -10,7 +10,7 @@ import pymysql
 dataBase = pymysql.connect(
     host = 'localhost',
     user = 'root',
-    passwd = 'Hq2wqf5gmkto!',
+    passwd = 'neues_passwort',
     database="noobco"
 )
 
